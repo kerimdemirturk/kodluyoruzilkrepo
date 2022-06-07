@@ -1,0 +1,15 @@
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\bin\Debug\net6.0\.net projects.exe
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\bin\Debug\net6.0\.net projects.deps.json
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\bin\Debug\net6.0\.net projects.runtimeconfig.json
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\bin\Debug\net6.0\.net projects.dll
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\bin\Debug\net6.0\.net projects.pdb
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.csproj.AssemblyReference.cache
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.AssemblyInfoInputs.cache
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.AssemblyInfo.cs
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.dll
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\refint\.net projects.dll
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.pdb
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\.net projects.genruntimeconfig.cache
+C:\Users\kerim\Desktop\kodluyoruzilkrepo\.net projects\obj\Debug\net6.0\ref\.net projects.dll
